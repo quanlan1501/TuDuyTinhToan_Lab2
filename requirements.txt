@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+firebase-admin
+streamlit
+requests
+pydantic
