@@ -9,8 +9,12 @@ env/
 venv/
 .venv/
 
+
 # BẢO MẬT TUYỆT ĐỐI CHÌA KHÓA FIREBASE (Không được đẩy lên mạng) 
 firebase_key.json
 
 # Bỏ qua các file cấu hình môi trường [cite: 124, 125]
 .env
+
+# Bo qua video demo
+*.mp4
