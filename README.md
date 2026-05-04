@@ -47,4 +47,12 @@ cd frontend
 streamlit run app.py
 ```
 
+### 🔑 Tài khoản Test
+Để tiện cho việc chấm bài, thầy/cô có thể sử dụng tài khoản đã được cấu hình sẵn trên Firebase sau:
+- **Email:** `test.lab2@gmail.com`
+- **Mật khẩu:** `123456`
+
 ## 🎥 Video Demo
+https://drive.google.com/drive/folders/1sz9FCR3-9OY7bP8LUPDUYtjZNcK-r8fC?usp=sharing
+
+
